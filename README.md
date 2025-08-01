@@ -81,6 +81,16 @@ Feel free to fork this project and submit pull requests to add new features, imp
 
 ---
 
+## 👤 Creator
+
+**Ardhaya Johari**  
+🔗 [GitHub](https://github.com/Ardhaya-Johari)  
+📧 ardhayasaxena3897@gmail.com  
+💼 [LinkedIn](https://www.linkedin.com/in/ardhaya-johari-819275321/)
+
+Created with ❤️ by Ardhaya
+
+---
 ## 📄 License
 
 Licensed under the [MIT License](LICENSE).
